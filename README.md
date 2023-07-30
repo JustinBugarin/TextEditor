@@ -69,13 +69,13 @@ To use the Text Editor application, follow these instructions:
 4. The content will be stored in the IndexedDB database.
 5. If you close and reopen the text editor, the content will be retrieved from IndexedDB.
 
-Here is a screenshot of the Text Editor application:
+## Screenshot
 
-![Just Another Text Editor](./assets/JATEexample.png)
+![Just Another Text Editor](./assets/jateexample1.PNG)
 
 ## Links
 
-
+https://progressive-pwa-38c931beffdd.herokuapp.com/
 
 ## License
 
