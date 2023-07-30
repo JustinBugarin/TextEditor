@@ -79,7 +79,7 @@ https://progressive-pwa-38c931beffdd.herokuapp.com/
 
 ## License
 
-This project is covered under the [MIT License](./LICENSE). For more details, please click the license icon below under 'Badges'.
+This project is covered under the [MIT License](./LICENSE).
 
 ## Profile
 [GitHub] https://github.com/JustinBugarin
