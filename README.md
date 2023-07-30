@@ -4,8 +4,6 @@
 
 This is a text editor application that runs in the browser as a progressive web application (PWA). It allows users to create notes or code snippets with or without an internet connection, providing reliable data persistence for later use. The application features offline functionality and employs various data persistence techniques for redundancy. The application is designed to meet PWA criteria and employs various modern web development techniques.
 
-Throughout the project, learned how to implement offline functionality, use IndexedDB for data storage, bundle JavaScript files using Webpack, generate HTML, service worker, and manifest files, and deploy the application to Heroku.
-
 User Story
 ```md
 AS A developer
@@ -73,21 +71,15 @@ To use the Text Editor application, follow these instructions:
 
 Here is a screenshot of the Text Editor application:
 
-![Just Another Text Editor](./assets/Screenshot%202023-07-06%20at%2010.39.33%20AM.png)
+![Just Another Text Editor](./assets/JATEexample.png)
 
-Here is the link to the deployed application:
-```md
-https://progressive-pwa-38c931beffdd.herokuapp.com/
-``````
+## Links
 
-## Credits
 
-Completed individually using starter code by: Emmanuel Lakis (https://github.com/pexApred)
 
 ## License
 
 This project is covered under the [MIT License](./LICENSE). For more details, please click the license icon below under 'Badges'.
 
-## Badges
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Profile
+[GitHub] https://github.com/JustinBugarin
